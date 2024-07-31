@@ -10,7 +10,7 @@ class Seasons:
 
 def get_birth():
     birth = input("enter your birth : ")
-    
+    return birth
 
 def main():
     a = get_birth()
